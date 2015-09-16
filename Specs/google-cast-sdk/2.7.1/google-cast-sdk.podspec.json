@@ -12,6 +12,7 @@
   "source": {
     "http": "https://redirector.gvt1.com/edgedl/chromecast/sdk/ios/GoogleCastSDK-2.7.1-Release-ios-default.zip"
   },
+  "public_header_files": "Headers/Public/*.h",
   "platforms": {
     "ios": "6.0"
   },
